@@ -1,6 +1,5 @@
 require 'pp'
 
-# implements a euclidean 
 def euclidean(first, second)
   front = []
   
